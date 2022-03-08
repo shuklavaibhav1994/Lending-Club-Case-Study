@@ -32,5 +32,7 @@ Numpy, Pandas, Seaborn, Matplotlib
 
 ## Contributors
 
-### Facilitator:### Vaibhav Shukla
-### Group Member:### Pankaj Sharma
+<ul>
+	<li><b>Facilitator:</b> Vaibhav Shukla</li>
+	<li><b>Group Member:</b> Pankaj Sharma</li>
+</ul>
